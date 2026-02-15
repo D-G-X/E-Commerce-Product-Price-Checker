@@ -27,14 +27,11 @@ This project focuses on:
 
 ## 🛠️ Tech Stack
 
-*(Update if needed)*
-
-- Programming Language: **Python / JavaScript**  
-- Data Fetching: **Web scraping / API-based requests**  
+- Programming Language: **Python **  
+- Data Fetching: **Web scraping **  
 - Libraries/Tools:  
-  - Requests / Axios  
-  - BeautifulSoup / Cheerio *(if scraping)*  
-- Version Control: **Git & GitHub**
+  - Requests 
+  - Selenium
 
 ---
 
@@ -44,18 +41,3 @@ This project focuses on:
 2. The application queries supported marketplaces  
 3. Price data is fetched and normalized  
 4. Results are compared and displayed with the best deal highlighted  
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Installed runtime (Python / Node.js)
-- Internet connection
-- Git
-
-### Installation
-
-```bash
-git clone https://github.com/D-G-X/E-Commerce-Product-Price-Checker.git
-cd E-Commerce-Product-Price-Checker
